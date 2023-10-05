@@ -2,7 +2,7 @@
 
 **Disclaimer:** This program is provided for entertainment purposes only and may not have practical applications. The code quality is not up to any professional standards. Really.
 
-FakeTyper simulates typing on a keyboard using an Arduino board with USB HID support. It reads specified files and types them with occasional mistakes and corrections.
+FakeTyper simulates typing on a keyboard using an Arduino board with USB HID support. It reads specified files and types them at a variating rate with occasional mistakes and corrections.
 
 ## Contents
 
